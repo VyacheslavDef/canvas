@@ -1,0 +1,25 @@
+canvas {
+    width: 700px;
+    height: 700px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #fffdc9;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.all_color>div {
+    width: 50px;
+    height: 50px;
+}
+
+
+.all_color {
+    display: flex;
+}
